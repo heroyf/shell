@@ -6,8 +6,8 @@ export PATH
 #	System Required: Debian/Ubuntu
 #	Description: SSH modify port
 #	Version: 1.0.0
-#	Author: Toyo
-#	Blog: https://doub.io/linux-jc11/
+#	Author：heroyf
+#	Blog: http://www.heroyf.club/
 #=================================================
 
 sh_ver="1.0.0"
