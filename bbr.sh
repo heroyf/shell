@@ -237,7 +237,7 @@ echo " Kernel  : $kern"
 echo "----------------------------------------"
 echo " Auto install latest kernel for TCP BBR"
 echo
-echo " URL：https://www.heroyf.club/index.php/archives/33/"
+echo " URL：https://www.heroyf.club/index.php/archives/34/"
 echo "----------------------------------------"
 echo
 echo "Press any key to start...or Press Ctrl+C to cancel"
